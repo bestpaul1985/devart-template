@@ -1,12 +1,14 @@
 # Project Title
-Insert the name of your project
+Your Are My Avatar (Y.A.M.A)
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Peng Cheng, surname, bestpaul1985
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Y.A.M.A is a real human control system which allowed people to control a realy person by sending audio commands. 
+
+One of dreams in my childhood was I wanted to become a GUNDAM (a human look robot by Janpaness carton) pilot. It became the insprition of Y.A.M.A. I dicided to turn a human being into a avtor.  By using a camera carried on the back of the avatar, it captured a third person view. The third person view was streaming to an tablet holden by a polit. By touch buttons on the tablet, a specific audio command will send to the earphone worn on the avatar's ears. The commands told the avatar how to move such as turn left, turn right, trun back and fight. The avatar had to follow the command because a lot of hiden information in the AR codes could be only viewed by the polit. At the same time, the pliot needed to deal with a real human, a lot of accidents would happen. 
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -23,7 +25,6 @@ function test() {
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
