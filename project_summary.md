@@ -2,7 +2,7 @@
 Your Are My Avatar (Y.A.M.A)
 
 ## Authors
-- Peng Cheng, surname, bestpaul1985
+- Peng Cheng, surname, https://github.com/bestpaul1985
 
 ## Description
 Y.A.M.A is a game system which allowed a player to control a realy person as an avatar in real envirment to play a thrid person role player game. 
